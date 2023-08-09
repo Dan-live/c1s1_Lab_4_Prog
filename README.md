@@ -1,4 +1,4 @@
-# k1s1_Lab_4_Prog
+# c1s1_Lab_4_Prog
 Three matrices of integers A[6,6], B[6,6], C[6,6] are given. Assign to the variable p
 assign the value 2 if all matrices are equal, the value 1 if 
 if two matrices are equal, 0 otherwise.
